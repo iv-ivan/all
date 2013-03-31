@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "long_float", "long_float\long_float.vcxproj", "{AD0C301F-225C-4557-AEDD-8E4337D91066}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD0C301F-225C-4557-AEDD-8E4337D91066}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AD0C301F-225C-4557-AEDD-8E4337D91066}.Debug|Win32.Build.0 = Debug|Win32
+		{AD0C301F-225C-4557-AEDD-8E4337D91066}.Release|Win32.ActiveCfg = Release|Win32
+		{AD0C301F-225C-4557-AEDD-8E4337D91066}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
